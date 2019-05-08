@@ -1,0 +1,30 @@
+:root{
+	/*
+		- Font Family
+	*/
+	--font-family: 'Roboto', sans-serif;
+	/*
+		- Pallet Color
+	*/
+	--grey: hsla(0, 0%, 40%, 1);
+	/*
+		- LINK
+	*/
+	--color-link:;
+	--color-link_hover:;
+	--text-decoration:;
+	/*
+		- SELECTION
+	*/
+	--color-selection:;
+	--color-selection_bg:;
+	/*
+		- CARET
+	*/
+	--color-caret:;
+	/* 
+		- GALERIA
+	*/
+	--gal-dots-bg-color:;
+	--gal-dots-color:;
+}

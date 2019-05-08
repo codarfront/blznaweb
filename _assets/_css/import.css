@@ -1,0 +1,13 @@
+/* FONT GOOGLE ROBOTO */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+/* FONT AWESOME - ICONS */
+@import 'font-awesome.min.css';
+/* ROOT */
+@import 'root.css';
+/* RESET */
+@import 'reset.min.css';
+/* TEMPLATE */
+@import 'template.css';
+/* GALERIA OWL */
+@import 'owl.carousel.min.css';
+@import 'owl.theme.default.min.css';
